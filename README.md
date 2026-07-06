@@ -18,6 +18,11 @@
 🚀 Currently Building
 - Student Record Management System
 - MERN Stack Projects
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,c,python,git,github,vscode" />
+</p>
 
 📫 Reach me at:
 kabithasujatha@gmail.com
