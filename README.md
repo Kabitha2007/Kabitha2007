@@ -18,4 +18,4 @@
 - MERN Stack Projects
 
 📫 Reach me at:
-your-email@example.com
+kabithasujatha@gmail.com
